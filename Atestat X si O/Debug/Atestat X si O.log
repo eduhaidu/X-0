@@ -1,0 +1,57 @@
+﻿  AI.cpp
+F:\ProjectC\Atestat X si O\Atestat X si O\AI.cpp(56,22): warning C4018: '<': signed/unsigned mismatch
+F:\ProjectC\Atestat X si O\Atestat X si O\AI.cpp(61,22): warning C4018: '<': signed/unsigned mismatch
+F:\ProjectC\Atestat X si O\Atestat X si O\AI.cpp(81,14): warning C4101: 'error': unreferenced local variable
+  AssetManager.cpp
+  Atestat X si O.cpp
+  Game.cpp
+  GameOverState.cpp
+  GameOverState2.cpp
+  GameState.cpp
+  GameState2.cpp
+F:\ProjectC\Atestat X si O\Atestat X si O\GameState2.cpp(63,37): warning C4390: ';': empty controlled statement found; is this the intent?
+  InputManager.cpp
+F:\ProjectC\Atestat X si O\Atestat X si O\InputManager.cpp(9,129): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+F:\ProjectC\Atestat X si O\Atestat X si O\InputManager.cpp(9,97): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+F:\ProjectC\Atestat X si O\Atestat X si O\InputManager.cpp(9,69): warning C4244: 'argument': conversion from 'const T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+F:\ProjectC\Atestat X si O\Atestat X si O\InputManager.cpp(9,45): warning C4244: 'argument': conversion from 'const T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+  InterState.cpp
+  MainMenuState.cpp
+F:\ProjectC\Atestat X si O\Atestat X si O\MainMenuState.cpp(33,130): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  PauseState.cpp
+  Splash State.cpp
+  StateMachine.cpp
+  Generating Code...
+  Atestat X si O.vcxproj -> F:\ProjectC\Atestat X si O\Debug\Atestat X si O.exe

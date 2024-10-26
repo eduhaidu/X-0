@@ -1,0 +1,43 @@
+﻿  InputManager.cpp
+F:\ProjectC\Atestat X si O\Atestat X si O\InputManager.cpp(9,129): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+F:\ProjectC\Atestat X si O\Atestat X si O\InputManager.cpp(9,97): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+F:\ProjectC\Atestat X si O\Atestat X si O\InputManager.cpp(9,69): warning C4244: 'argument': conversion from 'const T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+F:\ProjectC\Atestat X si O\Atestat X si O\InputManager.cpp(9,45): warning C4244: 'argument': conversion from 'const T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+  Generating code
+  0 of 481 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Atestat X si O.vcxproj -> F:\ProjectC\Atestat X si O\Release\Atestat X si O.exe
